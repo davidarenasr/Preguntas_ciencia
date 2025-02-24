@@ -1,2 +1,3 @@
-# Preguntas_ciencias
-Preguntas seleccion multiple ciencia. 
+# Repositorio de Preguntas de Ciencias
+
+Este repositorio contiene preguntas de ciencias organizadas por temas.
